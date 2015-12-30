@@ -1,0 +1,33 @@
+{
+  "name": "BirthdayPage",
+  "version": "1.0.0",
+  "description": "Birthday Project",
+  "main": "app.js",
+  "author": {
+    "name": "Nguyen Duy Tuan",
+    "email": "tuannd92@outlook.com"
+  },
+  "engines": {
+    "node": "4.2.1",
+    "npm": "2.14.7"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "BSD-3-Clause",
+  "contributors": [
+    {
+      "name": "Nguyen Duy Tuan",
+      "email": "tuannd92@outlook.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babman92/Birthday-Page/"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "subdomain": "nineknowlegde",
+  "analyze": "true"
+}
